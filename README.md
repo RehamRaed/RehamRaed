@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Reham Magharee
 
-<!--
-**RehamRaed/RehamRaed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering & AI Student from Gaza  
+💻 Front-End Developer (React.js & Next.js)  
+🌱 Passionate about creating beautiful and responsive web interfaces  
+🔥 A war survivor who keeps building and learning with strength  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack  
+- HTML | CSS | JavaScript  
+- React.js | Next.js  
+- Bootstrap | Tailwind CSS  
+- Firebase | JSON | API Integration  
+- Git | GitHub
+
+---
+
+🌟 Featured Projects  
+Check out my repositories below to explore my recent projects! 🚀  
+
+---
+
+📫 Contact Me  
+-  Email: rehammagharee003@gmail.com 
+-  LinkedIn: [www.linkedin.com/in/rehamraed]
+-  Portfolio: [https://personal-portfolio-rosy-ten-99.vercel.app/] 
+
+---
+
+⭐️ *Thanks for visiting my profile!*  
